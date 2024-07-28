@@ -1,0 +1,5 @@
+Abrigados: 878
+Voluntários: 162
+Comida: 1404
+Água: 1053
+Roupa: 2019

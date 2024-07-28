@@ -1,0 +1,3 @@
+abrir um terminal dentro do marker-pins
+e escrever o comando:
+node server.js
